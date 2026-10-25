@@ -1,1 +1,19 @@
-Esto es una prueba.
+## Software a propiedad de los integrantes del equipo de Adquisición y Visualización de Datos: 
+
+- Marco Antonio Vargas Valle
+- Francisco Manuel Diaz Arenas
+- Mario Mauricio Gudiño Barrios
+
+## Lenguajes utilizados:
+
+- Python 
+
+## Librerías utilizadas: 
+
+- jupyter, pandas, numpy y afines a las instaladas en requirements.txt
+
+
+## Tecnologías utilizadas: 
+- Claude Code
+
+*Todos los derechos reservados para los autores del lenguaje, librerías y tecnologías utilizadas para este proyecto*
